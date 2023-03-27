@@ -1,0 +1,80 @@
+.tab {
+	font-size: 25px;
+	margin: auto;
+	color: rgb(241, 16, 121);
+}
+.tab th{
+	padding-right:20px ;
+	font-family:TimesRoman;
+	color:rgb(17, 209, 43);
+	font-style: italic;
+}
+.tab1 {
+	font-size: 25px;
+	color: rgb(241, 16, 121);
+}
+.tab1 th{
+	padding-right:20px ;
+	font-family:TimesRoman;
+	color:rgba(10, 128, 63, 0.767);
+	font-style: oblique;
+}
+.wrap{
+	border: 2px solid fuchsia;
+	border-radius: 40px;
+	display: flex;
+	padding: auto;
+	margin-top: 5px;
+	
+}
+.button{
+	background-color: peru;
+	color: whitesmoke;
+	border-radius: 20px;
+	padding: 6px 12px;
+	position: fixed;
+}
+.button1{
+	background-color: peru;
+	color: whitesmoke;
+	border-radius: 20px;
+	padding: 6px 12px;
+}
+.but{
+	background-color: peru;
+	color: whitesmoke;
+	border-radius: 20px;
+	padding: auto;
+	margin-top: 10px;
+}
+.large{
+	font-size: 400%;
+	text-align: center;	
+	color: chocolate;
+	font-style: italic;
+}
+.box{
+	text-align: center;
+	border: 5px solid gray;
+	padding: 20px;
+	margin: auto;
+	border-radius: 20px;
+	box-shadow: 1px 1px 1px black, 0 0 20px rgb(192, 24, 80), 0 0 10px rgb(51, 197, 22);
+}
+.box2{
+	margin: auto;
+	display: flex;
+}
+.bg{
+	background: linear-gradient(to bottom left, cyan 50%, palegoldenrod 50%);
+}
+.in{
+	padding: 100px;
+	justify-items: center;
+}
+.in button{
+	padding: 10px 100px;
+	color: black;
+	background-color: blanchedalmond;
+	border-radius: 30px;
+}
